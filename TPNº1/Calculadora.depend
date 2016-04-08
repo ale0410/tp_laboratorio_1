@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1459272461 source:c:\users\alejandro\documents\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
+1458938552 c:\users\alejandro\documents\calculadora\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
+1458938471 c:\users\alejandro\documents\calculadora\misfunciones.h
+
+1459272232 source:c:\users\alejandro\documents\calculadora\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1459898714 source:f:\calculadora\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1459912420 source:f:\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
+1459898692 f:\calculadora\misfunciones.h
+
